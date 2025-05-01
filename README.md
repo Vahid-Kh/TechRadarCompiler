@@ -1,19 +1,23 @@
-Tech Radar Compiler
+# Tech Radar Compiler
+
 The Tech Radar Compiler is a tool designed to generate radar visualizations from input data stored in Excel files. The radar visualizations are automatically opened in your predefined browser and saved as HTML files.
 
-Support and Code Modifications
+## Support and Code Modifications
+
 For support and code modifications, please contact:
 
-Stefano Menengello: Python compiler support
-Vahid Khorshidi: HTML code & EXE code generators support
-Executable File Creation
-To create an executable file (.exe) from the Python script, follow these steps:
+- **Stefano Menengello**: Python compiler support
+- **Vahid Khorshidi**: HTML code & EXE code generators support
 
-Open a Python terminal and install the necessary packages:
+## Executable File Creation
 
-pip install pyinstaller
-pip install pandas
-pip install xlrd
+To create an executable file (`.exe`) from the Python script, follow these steps:
+
+1. Open a Python terminal and install the necessary packages:
+   ```bash
+   pip install pyinstaller
+   pip install pandas
+   pip install xlrd
 Create the executable file using PyInstaller:
 
 pyinstaller --onefile -w html2py.py
