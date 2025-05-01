@@ -1,0 +1,2911 @@
+('C:\\Users\\U375297\\PycharmProjects\\Tech Radar '
+ 'Compiler\\build\\html2py\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\U375297\\PycharmProjects\\Tech Radar '
+   'Compiler\\build\\html2py\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\ProgramData\\Anaconda3\\envs\\Tech Radar '
+   'Compiler\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\ProgramData\\Anaconda3\\envs\\Tech Radar '
+   'Compiler\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('html2py',
+   'C:\\Users\\U375297\\PycharmProjects\\Tech Radar Compiler\\html2py.py',
+   'PYSOURCE'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python38.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\python38.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('libopenblas.NOIJJG62EMASZI6NYURL6JBKM4EVBGM7.gfortran-win_amd64.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\.libs\\libopenblas.NOIJJG62EMASZI6NYURL6JBKM4EVBGM7.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('_ctypes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('pandas._libs.reshape',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\reshape.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.properties',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\properties.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.nattype',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\nattype.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.timestamps',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\timestamps.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.json',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\json.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.window.aggregations',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\window\\aggregations.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.timezones',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\timezones.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.offsets',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\offsets.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.timedeltas',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\timedeltas.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.algos',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\algos.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.parsing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\parsing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.parsers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\parsers.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.index',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\index.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.missing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\missing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.ops',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\ops.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.groupby',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\groupby.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.base',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\base.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.internals',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\internals.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.join',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\join.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.period',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\period.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.interval',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\interval.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.ccalendar',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\ccalendar.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.writers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\writers.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.conversion',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\conversion.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.vectorized',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\vectorized.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.np_datetime',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\np_datetime.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.reduction',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\reduction.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.tzconversion',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\tzconversion.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.window.indexers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\window\\indexers.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.dtypes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\dtypes.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.sparse',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\sparse.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.ops_dispatch',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\ops_dispatch.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.strptime',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\strptime.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.testing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\testing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslibs.fields',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\fields.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.indexing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\indexing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.hashing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\hashing.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.core._multiarray_tests',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\_multiarray_tests.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.core._multiarray_umath',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\_multiarray_umath.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.linalg.lapack_lite',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\linalg\\lapack_lite.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random.mtrand',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\random\\mtrand.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._sfc64',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\random\\_sfc64.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._philox',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\random\\_philox.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._pcg64',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\random\\_pcg64.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._mt19937',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\random\\_mt19937.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random.bit_generator',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\random\\bit_generator.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._generator',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\random\\_generator.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._bounded_integers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\random\\_bounded_integers.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.random._common',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\random\\_common.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.fft._pocketfft_internal',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.linalg._umath_linalg',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('_sqlite3',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('_elementtree',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('pandas.io.sas._sas',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\sas\\_sas.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.tslib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslib.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.lib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\lib.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas._libs.hashtable',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\hashtable.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('libffi-7.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('libssl-1_1-x64.dll',
+   'C:\\ProgramData\\Anaconda3\\envs\\Tech Radar '
+   'Compiler\\Library\\bin\\libssl-1_1-x64.dll',
+   'BINARY'),
+  ('libcrypto-1_1-x64.dll',
+   'C:\\ProgramData\\Anaconda3\\envs\\Tech Radar '
+   'Compiler\\Library\\bin\\libcrypto-1_1-x64.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('MSVCP140.dll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\window\\MSVCP140.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\ProgramData\\Anaconda3\\envs\\Tech Radar '
+   'Compiler\\Library\\bin\\sqlite3.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\U375297\\PycharmProjects\\Tech Radar '
+   'Compiler\\build\\html2py\\base_library.zip',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chihuahua',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Chihuahua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tomsk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tomsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Hawaii',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\US\\Hawaii',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Pacific',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tashkent',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tashkent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\East',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Brazil\\East',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Harbin',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Harbin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Buenos_Aires',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wallis',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wallis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Paris',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Paris',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\NSW',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\NSW',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rio_Branco',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Rio_Branco',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Iqaluit',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Iqaluit',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Podgorica',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Podgorica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Minsk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Minsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kinshasa',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kinshasa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Eirunepe',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Eirunepe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Egypt',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Egypt',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Skopje',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Skopje',
+   'DATA'),
+  ('pytz\\zoneinfo\\Portugal',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Portugal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Eastern',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROC',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\ROC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Riyadh',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Riyadh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dhaka',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dhaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Universal',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vientiane',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vientiane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Central',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Copenhagen',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Copenhagen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Kwajalein',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Christmas',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Christmas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Rothera',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Rothera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Maceio',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Maceio',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\South',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\South',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Samoa',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\US\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boise',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Boise',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-11',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-11',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vilnius',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vilnius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Mariehamn',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Mariehamn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lindeman',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lindeman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santo_Domingo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Santo_Domingo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aden',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aden',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Punta_Arenas',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Punta_Arenas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kampala',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kampala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Harare',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Harare',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+2',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+2',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+8',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+8',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT0',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\GB',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Apia',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Apia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Poland',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Poland',
+   'DATA'),
+  ('pytz\\zoneinfo\\HST',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\HST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Canberra',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Canberra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Damascus',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Damascus',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UCT',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Ponape',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Ponape',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\NZ',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Malta',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Malta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Navajo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Navajo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Norfolk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Norfolk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tarawa',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tarawa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-10',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Melbourne',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Melbourne',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montreal',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Montreal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Johannesburg',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Johannesburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT+0',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson_Creek',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson_Creek',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\Include\\pyconfig.h',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmera',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmera',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kralendijk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Kralendijk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\General',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Mexico\\General',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Creston',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Creston',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nairobi',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nairobi',
+   'DATA'),
+  ('pytz\\zoneinfo\\PRC',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\PRC',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santarem',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Santarem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Jersey',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Jersey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-2',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Davis',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Davis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Djibouti',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Djibouti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chongqing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chongqing',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chicago',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Chicago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Athens',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Athens',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nipigon',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Nipigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cuiaba',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cuiaba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iran',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Iran',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Accra',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Accra',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grenada',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Grenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tiraspol',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tiraspol',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Glace_Bay',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Glace_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Andorra',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Andorra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Khartoum',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Khartoum',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tortola',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Tortola',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Currie',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Currie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Perth',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Perth',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Easter',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Easter',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boa_Vista',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Boa_Vista',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Niue',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Niue',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtau',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\Continental',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Chile\\Continental',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Conakry',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Conakry',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Blantyre',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Blantyre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Hobart',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Hobart',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Merida',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Merida',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Velho',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Velho',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Vancouver',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Vancouver',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lome',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lome',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Regina',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Regina',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lagos',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mogadishu',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mogadishu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Pangnirtung',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Pangnirtung',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Brazzaville',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Brazzaville',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ-CHAT',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\NZ-CHAT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Helsinki',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Helsinki',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Acre',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Luxembourg',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Luxembourg',
+   'DATA'),
+  ('pytz\\zoneinfo\\CET',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\CET',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rosario',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Rosario',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yellowknife',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Yellowknife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Majuro',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Majuro',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anguilla',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Anguilla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Truk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Truk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Vincent',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Vincent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mayotte',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mayotte',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Sakhalin',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Sakhalin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Abidjan',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Abidjan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Managua',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Managua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\West',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Chisinau',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Chisinau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Malabo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Malabo',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone.tab',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\zone.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Central',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\US\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Turkey',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Turkey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wake',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wake',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Funafuti',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Funafuti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT-0',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Danmarkshavn',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Danmarkshavn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chita',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chita',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Banjul',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Banjul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Antananarivo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Antananarivo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Dublin',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Dublin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmara',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmara',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT0',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nuuk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Nuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Calcutta',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Calcutta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Yap',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Yap',
+   'DATA'),
+  ('pytz\\zoneinfo\\Hongkong',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Hongkong',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Azores',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Azores',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thule',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Thule',
+   'DATA'),
+  ('pytz\\zoneinfo\\PST8PDT',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\PST8PDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Cairo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Cairo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Famagusta',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Famagusta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Alaska',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\US\\Alaska',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Galapagos',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Galapagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montevideo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Montevideo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Greenwich',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Kerguelen',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Kerguelen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zagreb',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zagreb',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Palmer',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Palmer',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Resolute',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Resolute',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayman',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cayman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ljubljana',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ljubljana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Los_Angeles',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Los_Angeles',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+10',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Casey',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Casey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vienna',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vienna',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Khandyga',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Khandyga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yakutsk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yakutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST5EDT',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\EST5EDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Shiprock',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Shiprock',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jayapura',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jayapura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Brunei',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Brunei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Nauru',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Nauru',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Simferopol',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Simferopol',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dakar',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dakar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Enderbury',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Enderbury',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nouakchott',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nouakchott',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Makassar',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Makassar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Panama',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Panama',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Lucia',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Lucia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iceland',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Iceland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\La_Paz',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\La_Paz',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Midway',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Midway',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baku',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baku',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kathmandu',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kathmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\W-SU',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\W-SU',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montserrat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Montserrat',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Menominee',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Menominee',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Zulu',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Istanbul',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Gambier',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Gambier',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dili',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dili',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tijuana',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Tijuana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+12',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+12',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mazatlan',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Mazatlan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\ACT',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\ACT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Manaus',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Manaus',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Caracas',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Caracas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayenne',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cayenne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bangkok',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bangkok',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Marigot',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Marigot',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Johns',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Johns',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belgrade',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belgrade',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Casablanca',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Casablanca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Shanghai',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Shanghai',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Miquelon',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Miquelon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Universal',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Volgograd',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Volgograd',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ceuta',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ceuta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Costa_Rica',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Costa_Rica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Mountain',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone1970.tab',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\zone1970.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Monrovia',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Monrovia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hebron',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hebron',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macao',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Rome',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Rome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Syowa',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Syowa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vladivostok',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vladivostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Anadyr',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Anadyr',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Eucla',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Eucla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Goose_Bay',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Goose_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Urumqi',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Urumqi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Muscat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Muscat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-12',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-12',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Istanbul',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Paramaribo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Paramaribo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mauritius',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mauritius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Samarkand',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Samarkand',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST7MDT',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\MST7MDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Mountain',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\US\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Taipei',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Taipei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Tasmania',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Tasmania',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chatham',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chatham',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-8',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pontianak',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pontianak',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Yancowinna',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Yancowinna',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fortaleza',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Fortaleza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Auckland',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Auckland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bahrain',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bahrain',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Asuncion',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Asuncion',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Arizona',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\US\\Arizona',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guam',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+3',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+3',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cordoba',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Samoa',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UTC',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yerevan',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yerevan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaSur',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaSur',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\East-Indiana',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\US\\East-Indiana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Swift_Current',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Swift_Current',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hovd',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hovd',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Seoul',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Seoul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Freetown',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Freetown',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-14',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-14',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jakarta',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jakarta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Singapore',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Noumea',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Noumea',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+11',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+11',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Michigan',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\US\\Michigan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ojinaga',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Ojinaga',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+5',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+5',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Saipan',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Saipan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chungking',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chungking',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Oral',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Oral',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-4',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Adelaide',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Adelaide',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Stockholm',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Stockholm',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Sydney',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Sydney',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tokyo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tokyo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bratislava',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bratislava',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\El_Salvador',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\El_Salvador',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atikokan',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Atikokan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sitka',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Sitka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Brisbane',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Brisbane',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\MST',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tbilisi',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tbilisi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guayaquil',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Guayaquil',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+4',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Almaty',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Almaty',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Saigon',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Saigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chuuk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fiji',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fiji',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Kitts',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Kitts',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\West',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Brazil\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tunis',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tunis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Saratov',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Saratov',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lower_Princes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Lower_Princes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\LHI',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\LHI',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Stanley',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Stanley',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-6',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Amsterdam',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Amsterdam',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Toronto',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Toronto',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kigali',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kigali',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Whitehorse',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Whitehorse',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Berlin',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Berlin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Niamey',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Niamey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ndjamena',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ndjamena',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Denver',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Denver',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Juba',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Juba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anchorage',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Anchorage',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\Acre',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Brazil\\Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santa_Isabel',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Santa_Isabel',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Manila',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Manila',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Hermosillo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Hermosillo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Honolulu',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Honolulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sofia',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sofia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bogota',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Bogota',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Louisville',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bucharest',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bucharest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maputo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maputo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-9',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-9',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Warsaw',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Warsaw',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Efate',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Efate',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Noronha',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Noronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nassau',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Nassau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pyongyang',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pyongyang',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Catamarca',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kirov',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kirov',
+   'DATA'),
+  ('pytz\\zoneinfo\\Jamaica',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Vostok',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Vostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Campo_Grande',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Campo_Grande',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Madrid',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Madrid',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Barbados',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Barbados',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\EST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\North',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\North',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Budapest',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Budapest',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santiago',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Santiago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Katmandu',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Katmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kosrae',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kosrae',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cancun',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cancun',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bangui',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bangui',
+   'DATA'),
+  ('pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atka',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Atka',
+   'DATA'),
+  ('pytz\\zoneinfo\\tzdata.zi',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\tzdata.zi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\London',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\London',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Victoria',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Victoria',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-13',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-13',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faroe',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Beirut',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Beirut',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Irkutsk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Irkutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Libreville',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Libreville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ensenada',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Ensenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Queensland',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Queensland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guadeloupe',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Guadeloupe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Halifax',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Halifax',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mendoza',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Moncton',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Moncton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Darwin',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Australia\\Darwin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Choibalsan',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Choibalsan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\New_York',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\New_York',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashgabat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashgabat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Magadan',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Magadan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Douala',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Douala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuching',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuching',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guatemala',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Guatemala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qatar',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\San_Marino',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\San_Marino',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Greenwich',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Factory',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Factory',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuwait',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuwait',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Monterrey',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Monterrey',
+   'DATA'),
+  ('pytz\\zoneinfo\\UTC',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Lisbon',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Lisbon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Curacao',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Curacao',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Nelson',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Nelson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Cuba',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Cuba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sao_Paulo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Sao_Paulo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belfast',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belfast',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Madeira',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Madeira',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Comoro',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Comoro',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Virgin',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Virgin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macau',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tahiti',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tahiti',
+   'DATA'),
+  ('pytz\\zoneinfo\\EET',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\EET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Riga',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Riga',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Godthab',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Godthab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-3',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Algiers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Algiers',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Monaco',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Monaco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Timbuktu',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Timbuktu',
+   'DATA'),
+  ('pytz\\zoneinfo\\MET',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\MET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jerusalem',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jerusalem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-1',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-1',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Yukon',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Yukon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vaduz',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vaduz',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Astrakhan',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Astrakhan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nome',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Nome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\EasterIsland',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Chile\\EasterIsland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grand_Turk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Grand_Turk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Gaborone',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Gaborone',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Amman',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Amman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Atyrau',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Atyrau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bamako',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bamako',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Luanda',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Luanda',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Pacific',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\US\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Eastern',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\US\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Edmonton',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Edmonton',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dominica',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Dominica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Palau',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Palau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jujuy',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thunder_Bay',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Thunder_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port-au-Prince',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Port-au-Prince',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indianapolis',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Matamoros',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Matamoros',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mbabane',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mbabane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'DATA'),
+  ('pytz\\zoneinfo\\Japan',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Japan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kiev',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kiev',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sarajevo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sarajevo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dacca',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dacca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Omsk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Omsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mahe',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mahe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Detroit',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Detroit',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port_of_Spain',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Port_of_Spain',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tegucigalpa',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Tegucigalpa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Gaza',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Gaza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kolkata',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kolkata',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-7',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-7',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Guernsey',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Guernsey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Knox_IN',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Knox_IN',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belem',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Belem',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guyana',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Guyana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bujumbura',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bujumbura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Reunion',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Reunion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kabul',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kabul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Recife',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Recife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+1',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+1',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kamchatka',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kamchatka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lusaka',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lusaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Inuvik',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Inuvik',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Barthelemy',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Barthelemy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Chagos',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Chagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Newfoundland',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Newfoundland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+9',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+9',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-5',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-5',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Nicosia',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dubai',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dubai',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimphu',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimphu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Puerto_Rico',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Puerto_Rico',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Nicosia',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Araguaina',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Araguaina',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Adak',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Adak',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mexico_City',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Mexico_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bissau',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bissau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+6',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baghdad',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baghdad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimbu',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimbu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Brussels',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Brussels',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Phoenix',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Phoenix',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Barnaul',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Barnaul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belize',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Belize',
+   'DATA'),
+  ('pytz\\zoneinfo\\leapseconds',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\leapseconds',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Busingen',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Busingen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtobe',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtobe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Johnston',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Johnston',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Aleutian',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\US\\Aleutian',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tripoli',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tripoli',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Canary',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Canary',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yakutat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Yakutat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Israel',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Israel',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Mawson',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Mawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tirane',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tirane',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Cocos',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Cocos',
+   'DATA'),
+  ('pytz\\zoneinfo\\UCT',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Havana',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Havana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Eire',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Karachi',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Karachi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vatican',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vatican',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Metlakatla',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Metlakatla',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Coral_Harbour',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Coral_Harbour',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kashgar',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kashgar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Windhoek',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Windhoek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tehran',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tehran',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yangon',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yangon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Libya',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Libya',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Oslo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Oslo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Wayne',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Wayne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zurich',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zurich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Marquesas',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Marquesas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Winnipeg',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Winnipeg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Singapore',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Samara',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Samara',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Rangoon',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Rangoon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Martinique',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Martinique',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Thomas',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\St_Thomas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bishkek',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bishkek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+7',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+7',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qostanay',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qostanay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Troll',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Troll',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tallinn',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tallinn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lima',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Lima',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+0',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Maldives',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Indian\\Maldives',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Juneau',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Juneau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Prague',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Prague',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB-Eire',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\GB-Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Zulu',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Colombo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Colombo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Scoresbysund',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Scoresbysund',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Gibraltar',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Gibraltar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Antigua',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Antigua',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Aruba',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Aruba',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROK',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\ROK',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rainy_River',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Rainy_River',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dushanbe',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dushanbe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Atlantic',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Canada\\Atlantic',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jamaica',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\America\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-0',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\WET',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\WET',
+   'DATA'),
+  ('pytz\\zoneinfo\\iso3166.tab',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\iso3166.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Indiana-Starke',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\US\\Indiana-Starke',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Bougainville',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Bougainville',
+   'DATA'),
+  ('pytz\\zoneinfo\\CST6CDT',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\CST6CDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Moscow',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Europe\\Moscow',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maseru',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maseru',
+   'DATA'),
+  ('html2py.exe.manifest',
+   'C:\\Users\\U375297\\PycharmProjects\\Tech Radar '
+   'Compiler\\build\\html2py\\html2py.exe.manifest',
+   'BINARY'),
+  ('pyi-windows-manifest-filename html2py.exe.manifest', '', 'OPTION')],
+ False,
+ False,
+ False,
+ [])

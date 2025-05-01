@@ -1,0 +1,2900 @@
+('C:\\Users\\U375297\\PycharmProjects\\Tech Radar '
+ 'Compiler\\build\\html2py\\PYZ-00.pyz',
+ [('pkg_resources',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\typing.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\__future__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\struct.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\doctest.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\argparse.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\gettext.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\signal.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\selectors.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\calendar.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\getopt.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\bisect.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\runpy.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\configparser.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\random.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\csv.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\token.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\optparse.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\numbers.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\tty.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\cmd.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\difflib.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\string.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\imp.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\ast.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\platform.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\stat.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\os.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('pandas',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\fcompiler\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config_compiler',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\config_compiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.command',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.egg_info',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.install_scripts',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools.command.easy_install',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\command\\easy_install.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\config.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.package_index',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\package_index.py',
+   'PYMODULE'),
+  ('setuptools.ssl_support',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\ssl_support.py',
+   'PYMODULE'),
+  ('wincertstore',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\wincertstore.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.sandbox',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\sandbox.py',
+   'PYMODULE'),
+  ('site',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('distutils.command.install_scripts',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._typing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools.namespaces',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\namespaces.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools.py34compat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\py34compat.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.develop',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\develop.py',
+   'PYMODULE'),
+  ('setuptools.command.develop',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\command\\develop.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_clib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\install_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.bdist_rpm',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('distutils.command.bdist_rpm',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_rpm',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools.command.install',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\setuptools\\command\\install.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_headers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('distutils.command.install_headers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_data',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('distutils.command.install_data',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.sdist',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_scripts',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_clib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('distutils.command.build_clib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_ext',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('numpy.distutils.system_info',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\system_info.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py_testing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\f2py_testing.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_src',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\build_src.py',
+   'PYMODULE'),
+  ('numpy.distutils.conv_template',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\conv_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.from_template',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\from_template.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('fileinput',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\fileinput.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_py',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('distutils.command.build_py',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.autodist',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\command\\autodist.py',
+   'PYMODULE'),
+  ('numpy.distutils.mingw32ccompiler',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\mingw32ccompiler.py',
+   'PYMODULE'),
+  ('distutils.msvccompiler',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.unixccompiler',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('distutils.cygwinccompiler',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('distutils.command.config',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\cgi.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('numpy.distutils.core',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\core.py',
+   'PYMODULE'),
+  ('numpy.distutils.numpy_distribution',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\numpy_distribution.py',
+   'PYMODULE'),
+  ('numpy.distutils.extension',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\extension.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler.environment',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\fcompiler\\environment.py',
+   'PYMODULE'),
+  ('numpy.distutils.exec_command',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\exec_command.py',
+   'PYMODULE'),
+  ('numpy.distutils.misc_util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\misc_util.py',
+   'PYMODULE'),
+  ('curses',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('numpy.distutils.__config__',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\__config__.py',
+   'PYMODULE'),
+  ('numpy.distutils.npy_pkg_config',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\npy_pkg_config.py',
+   'PYMODULE'),
+  ('numpy.distutils.unixccompiler',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.ccompiler',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils._shell_utils',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\_shell_utils.py',
+   'PYMODULE'),
+  ('pipes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\pipes.py',
+   'PYMODULE'),
+  ('numpy.distutils.lib2def',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\lib2def.py',
+   'PYMODULE'),
+  ('numpy.distutils.log',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\distutils\\log.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.dual',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\dual.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.financial',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\financial.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.numeric',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.methods',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\ops\\methods.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.ops.roperator',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\ops\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util.testing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\util\\testing.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_testing.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.compat.chainmap',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\compat\\chainmap.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_utils',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\fractions.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\parsers.py',
+   'PYMODULE'),
+  ('pandas.io.date_converters',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\date_converters.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlwt',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\excel\\_xlwt.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('xlrd.xldate',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\xlrd\\xldate.py',
+   'PYMODULE'),
+  ('xlrd',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\xlrd\\__init__.py',
+   'PYMODULE'),
+  ('xlrd.xlsx',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\xlrd\\xlsx.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xlrd.info',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\xlrd\\info.py',
+   'PYMODULE'),
+  ('xlrd.formula',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\xlrd\\formula.py',
+   'PYMODULE'),
+  ('xlrd.book',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\xlrd\\book.py',
+   'PYMODULE'),
+  ('xlrd.sheet',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\xlrd\\sheet.py',
+   'PYMODULE'),
+  ('xlrd.formatting',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\xlrd\\formatting.py',
+   'PYMODULE'),
+  ('xlrd.compdoc',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\xlrd\\compdoc.py',
+   'PYMODULE'),
+  ('xlrd.biffh',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\xlrd\\biffh.py',
+   'PYMODULE'),
+  ('xlrd.timemachine',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\xlrd\\timemachine.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.indexers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\window\\indexers.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.tools',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\tools.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.compat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\compat.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.misc',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\misc.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.style',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\style.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.hist',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\hist.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.core',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\core.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.timeseries',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\timeseries.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.converter',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\converter.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.boxplot',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\boxplot.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'c:\\programdata\\anaconda3\\envs\\tech radar compiler\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.core.aggregation',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\aggregation.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\strings.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexers.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.latex',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\formats\\latex.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pytz',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.dtype',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\dtype.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'c:\\programdata\\anaconda3\\envs\\tech radar '
+   'compiler\\lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE')])
