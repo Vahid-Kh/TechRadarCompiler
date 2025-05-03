@@ -23,7 +23,7 @@ Create the executable file using PyInstaller:
 pyinstaller --onefile -w html2py.py
 Place the html2py.exe file together with the TechRadarInputs.xlsx in the same directory.
 
-Run html2py.exe and enjoy the radar visualization.
+Run html2py.exe and enjoy the radar visualization using the excel file in the same folder.(No need to have Python nor HTML editor to change and input the excel file). It can handle from 3 to 8 sections(technology domains) and anything else will crash. :)
 
 Usage Instructions
 Save the Excel file with input data in a local directory and specify its path in the filename variable within the script.
